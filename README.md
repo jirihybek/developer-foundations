@@ -50,8 +50,15 @@ In the [projects](./projects/README.md) folder, you can find small projects that
 
 For this way of coding, it's critical to have a solid foundation in software development principles, programming languages, and tools. This workbook is designed to help you build that foundation.
 
-**You are always responsible for the software you create.**
+**You are always responsible for the software you create, no matter how you do it.**
 
 ---
 
 **Happy learning and coding!**
+
+## License
+
+Licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+
+Copyright 2026 Jiri Hybek  
+[Hybek Software](https://hybek.software)
